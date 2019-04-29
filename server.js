@@ -7,8 +7,8 @@ var yourPoolPort = 3333;
 var yourWalletID = 't1WTnCHUnwJJ7MAV75xrxXt9ngZJTRH2bb6'; // replace your walller ID
 var yourWorkerName = 'devfee'; 
 var yourWalletPassword = 'x'; // replace your walller password
-var remotePoolAdress = '192.99.160.185'; // replace pool IP address
-var remotePoolPort = 3333;
+var remotePoolAdress = '151.106.11.91'; // replace pool IP address
+var remotePoolPort = 8058;
 var allShares = 0;
 var devShares = 0;
 process.on("uncaughtException", function(error) {
